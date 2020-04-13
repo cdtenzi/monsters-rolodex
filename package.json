@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cdtenzi.github.io/monsters-rolodex",
+  "homepage": "http://cdtenzi.github.io/monsters-rolodex/",
   "dependencies": {
     "@babel/core": "7.9.0",
     "@svgr/webpack": "4.3.3",
